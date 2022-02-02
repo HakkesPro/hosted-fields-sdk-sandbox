@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#hosted-fields-wrapper {
+  height: 250px;
+  width: 500px;
+  margin: 0 auto;
+}
+
+#hosted-fields-wrapper > div, #hosted-fields-wrapper iframe {
+  height: 100%;
+  width: 100%;
+  border: 0px;
+}
